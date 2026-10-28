@@ -1,16 +1,55 @@
-# React + Vite
+# 3D Animated Car Homepage 🚗
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive automotive website homepage featuring a 3D car model, smooth animations, and a modern user interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Interactive 3D car model
+- Smooth animation and transitions
+- Realistic lighting and environment reflections
+- Modern, responsive automotive homepage
+- Interactive UI elements
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- React Three Fiber
+- Three.js
+- Drei
+- Motion for React
+- Tailwind CSS
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/shahabuddincodes/AutoMotive.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd 3d-animated-car-website
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+## Learning Goals
+
+This project explores integrating 3D graphics, animation, lighting, and interactive experiences into modern React applications.
+
+## Author
+
+Frontend Developer | SHAHABUDDIN | Exploring 3D Web Development and Interactive Experiences
