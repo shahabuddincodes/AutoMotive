@@ -31,7 +31,7 @@ git clone https://github.com/shahabuddincodes/AutoMotive.git
 ### 2. Navigate to the project
 
 ```bash
-cd 3d-animated-car-website
+cd Automotive
 ```
 
 ### 3. Install dependencies
